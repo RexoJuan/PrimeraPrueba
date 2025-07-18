@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to right, blue, rgb(0, 255, 247));
+    color: #fff;
+}
+
+p{
+    margin: 20px;
+    text-align: center;
+    border: 5px solid brown;
+}
